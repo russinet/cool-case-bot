@@ -1,0 +1,336 @@
+{
+  "i": [
+    {
+      "title": "Bucket of Water",
+      "rarity": "Common",
+      "description": "It's literally just water, that's it. I am out of ideas.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798244576472727643/Bucket.png",
+      "use command": "none"
+    },
+    {
+      "title": "Dirt",
+      "rarity": "Common",
+      "description": "I don't like you so here's some dirt.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798244947916095508/Dirt.png",
+      "use command": "none"
+    },
+    {
+      "title": "A Bike",
+      "rarity": "Common",
+      "description": "Stolen at least 3 times",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798245822247600178/Bike.png",
+      "use command": "none"
+    },
+    {
+      "title": "School lunch Cheeseburger",
+      "rarity": "Common",
+      "description": "Not safe for consumption.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798246914344484904/Cheeseburger.png",
+      "use command": "none"
+    },
+    {
+      "title": "Ronald",
+      "rarity": "Exotic",
+      "description": "Oh no",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798232740746887188/Ronald.png",
+      "use command": "none"
+    },
+    {
+      "title": "New PC",
+      "rarity": "Exotic",
+      "description": "You're not getting one, but at least you can dream, right?",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798247756857999430/PC.png",
+      "use command": "none"
+    },
+    {
+      "title": "PS5",
+      "rarity": "Exotic",
+      "description": "It's a PS5.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798250047971393576/PS5.png",
+      "use command": "none"
+    },
+    {
+      "title": "Gamma Doppler Karambit",
+      "rarity": "Exotic",
+      "description": "StatTrak Available",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798250895719661608/Karambit.png",
+      "use command": "none"
+    },
+    {
+      "title": "Ion Thruster",
+      "rarity": "Exotic",
+      "description": "For all of your orbital calibration / adjustment needs",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798251370838229042/IonThruster.png",
+      "use command": "none"
+    },
+    {
+      "title": "A Dictionary",
+      "rarity": "Exotic",
+      "description": "Cause some of ya'll really need it.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798268441412763695/dictionary.png",
+      "use command": "none"
+    },
+    {
+      "title": "Cheemsburger",
+      "rarity": "Legendary",
+      "description": "Cheemsburger ands Hampy Meal",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798235353730252870/Cheems.png",
+      "use command": "none"
+    },
+    {
+      "title": "Student Load Coverage",
+      "rarity": "Legendary",
+      "description": "Now you are not stuck with crippling debt for the rest of your life from taking that useless libral arts major that you can't even do anything with.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798267894797434960/cap.png",
+      "use command": "none"
+    },
+    {
+      "title": "RTX 3090",
+      "rarity": "Legendary",
+      "description": "You're not getting one any time soon",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798269622369386497/rtx.png",
+      "use command": "none"
+    },
+    {
+      "title": "Diamond",
+      "rarity": "Mythical",
+      "description": "So way back in the mine\nGot our pickaxe swingin from side to side (side to side)\nThis task a grueling one\nHope to find some diamonds tonight (night, night)\nDiamonds tonight\nHeads up, you hear a sound, turn around and look up\nTotal shock fills your body\nOh no it's you again\nI can never forget those eyes, eyes, eyes, eyes",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798227487137202296/Diamond.png",
+      "use command": "none"
+    },
+    {
+      "title": "Sleep",
+      "rarity": "Rare",
+      "description": "Don't get a lot of that nowadays, eh?",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798231090086412298/CarBed.png",
+      "use command": "none"
+    },
+    {
+      "title": "Putin",
+      "rarity": "Rare",
+      "description": "The almighty himself",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798234577533141070/Putin.png",
+      "use command": "none"
+    },
+    {
+      "title": "Wyoming",
+      "rarity": "Rare",
+      "description": "Literally the entire Wyoming now belongs to you.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798248626090409994/Wyoming.png",
+      "use command": "none"
+    },
+    {
+      "title": "Photon Sword™",
+      "rarity": "Rare",
+      "description": "Might the Power be Near You!®",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798259542310912080/LightSaber.png",
+      "use command": "none"
+    },
+    {
+      "title": "Microwaved Pizza",
+      "rarity": "Rare",
+      "description": "Even now it's edible... somewhat.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798260588656590868/Pizza.png",
+      "use command": "none"
+    },
+    {
+      "title": "Reddit Gold",
+      "rarity": "Rare",
+      "description": "Reddit Moment Wholesome 100",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798260980256735253/RedditGold.png",
+      "use command": "none"
+    },
+    {
+      "title": "Loss",
+      "rarity": "Rare",
+      "description": "loss.jpg",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798262750186438706/Loss.png",
+      "use command": "none"
+    },
+    {
+      "title": "Impostor",
+      "rarity": "Rare",
+      "description": "It's the funny bean man!1!!1",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798264688420978738/Impostor.png",
+      "use command": "none"
+    },
+    {
+      "title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "rarity": "Rare",
+      "description": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798266596392960040/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.png",
+      "use command": "none"
+    },
+    {
+      "title": "Roblox Head",
+      "rarity": "Uncommon",
+      "description": "Looks pretty dumb",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798226830146535434/RobloxHead.png",
+      "use command": "none"
+    },
+    {
+      "title": "Funy meme",
+      "rarity": "Uncommon",
+      "description": "isn't this meme SO lolz amiright fellas?",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798237388366151720/Troll.png",
+      "use command": "none"
+    },
+    {
+      "title": "Schrodinger's Cat",
+      "rarity": "Uncommon",
+      "description": "Is it dead or alive? You never know until you open the case",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798244219067170916/Cat.png",
+      "use command": "none"
+    },
+    {
+      "title": "48 Cents",
+      "rarity": "Uncommon",
+      "description": "Exactly 48 cents in change",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798254712423710780/Change.png",
+      "use command": "none"
+    },
+    {
+      "title": "Crossbow",
+      "rarity": "Uncommon",
+      "description": "200 Wood, 75 Low Quality Metal, and 2 Rope",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798255129958023239/Crossbow.png",
+      "use command": "none"
+    },
+    {
+      "title": "Supreme Brick",
+      "rarity": "Uncommon",
+      "description": "Great for bashing in someone's skull",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798257186768945152/Brick.png",
+      "use command": "none"
+    },
+    {
+      "title": "Draik",
+      "rarity": "Uncommon",
+      "description": "You finally got the Rarest Neopet!!! Wait... you don't care?",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798257875663323156/Draik.png",
+      "use command": "none"
+    },
+    {
+      "title": "Can of Coke",
+      "rarity": "Uncommon",
+      "description": "Very refreshing!",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798258321638948904/CokeCan.png",
+      "use command": "none"
+    },
+    {
+      "title": "Pile of Coke",
+      "rarity": "Uncommon",
+      "description": "Also Coke, although not as refreshing.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798258591169118240/Coke.png",
+      "use command": "none"
+    },
+    {
+      "title": "Average Pizza Fan",
+      "rarity": "Uncommon",
+      "description": "what a stupid idiot",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798263253829681162/PizzaFan.png",
+      "use command": "none"
+    },
+    {
+      "title": "Average Fried Chicken Enjoyer",
+      "rarity": "Uncommon",
+      "description": "so sexy",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798263445434400768/ChickenEnjoyer.png",
+      "use command": "none"
+    },
+    {
+      "title": "!",
+      "rarity": "Uncommon",
+      "description": "!",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798265733556469780/48def0d81da76a2f.png",
+      "use command": "none"
+    },
+    {
+      "title": "A Mask",
+      "rarity": "Uncommon",
+      "description": "Just a reminder to wear your mask in public spaces!",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798266949229608960/mask.png",
+      "use command": "none"
+    },
+    {
+      "title": "MERICA!",
+      "rarity": "Uncommon",
+      "description": "Gonna take my truck down to the river to fish with ma boys and shoot at some squirrels with my AR-14, afterwards going to le MCdonalds to get 3 Big Macs and 2 gallons of Diet Coke",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798270595280011284/america.png",
+      "use command": "none"
+    },
+    {
+      "title": "Istanbul",
+      "rarity": "Uncommon",
+      "description": "(not Constantinople)",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/798271526998507530/instanbul.png",
+      "use command": "none"
+    },
+    {
+      "title": "Cabbage",
+      "rarity": "Common",
+      "description": "You wanted to achieve your hopes and dreams, but instead you got a cabbage.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797246781351788564/cabbage.png",
+      "use command": "none"
+    },
+    {
+      "title": "Absolutely Nothing",
+      "rarity": "Common",
+      "description": ":(",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797258248444968960/nothing.png",
+      "use command": "none"
+    },
+    {
+      "title": "Baked Beans",
+      "rarity": "Common",
+      "description": "mmmmmm... Beans.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797258801941577785/beans.png",
+      "use command": "none"
+    },
+    {
+      "title": "Mazda MX-6",
+      "rarity": "Common",
+      "description": "A piece of trash that just falls apart.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797259614457954324/mazda.png",
+      "use command": "none"
+    },
+    {
+      "title": "Fedora",
+      "rarity": "Common",
+      "description": "M'lady",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797260425901244426/fedora.png",
+      "use command": "none"
+    },
+    {
+      "title": "Linux",
+      "rarity": "Common",
+      "description": "The only reason people use it is because its logo is a penguin, obviously.",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797260955154513930/linux.png",
+      "use command": "none"
+    },
+    {
+      "title": "Folcke 190B",
+      "rarity": "Uncommon",
+      "description": "Commit war crimes in fashion with this fine german piece of worksmanship",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797287134625005568/folcke.png",
+      "use command": "none"
+    },
+    {
+      "title": "Communism",
+      "rarity": "Mythical",
+      "description": "If you don't want to come to Soviet Union, Soviet Union will come to you!",
+      "image": "https://cdn.discordapp.com/attachments/797244132133044244/797254357577629706/ussr.png",
+      "use command": "none"
+    }
+  ],
+
+
+
+  "blank": {
+      "title": "",
+      "rarity": "",
+      "description": "",
+      "image": "",
+      "use command": "none"
+    }
+}
